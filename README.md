@@ -1,2 +1,2 @@
-# WGS-NorthAtlanticSalmon
-![Whole Genome Analysis on North Atlantic Salmon St.John and Penobscot River Populations](https://github.com/celia-b/WGS-NorthAtlanticSalmon/poster.pdf)
+# Whole Genome Sequence Analysis on Two Populations of North Atlantic Salmon 
+[poster.pdf](https://github.com/celia-b/WGS-NorthAtlanticSalmon/files/6546195/poster.pdf)
